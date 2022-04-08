@@ -49,3 +49,7 @@ Today I was able to experience and appreciate remote work. I had a few unexpecte
 From "Am I allowed doing this?", "This feels weird" to " This is a cool way to work!". As long as I do my job I am ok.
 
 Blilliant 😀.
+
+## Day 5
+
+Not much was happening today. Spent most of the day taking screenshots and writing my blog on "How to use GitHub Pages to host a blog." To be honest it is taking longer than I was expecting. It is almost finished. Hopefully, I will post it tomorrow 🤞. 
