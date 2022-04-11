@@ -59,7 +59,7 @@ Not much was happening today. Spent most of the day taking screenshots and writi
 Along with this journal and writing a blog, I am doing #100DaysOfCode. I understand that I should be logging some activity every day but I am a dad and weekends are reserved for my family so.. No entries over the weekend. 
 
 Also, it was my birthday so there is no way that I would be doing any coding at all. Here is the delicious cake I have enjoyed yesterday 😋.
-![My delicious birthday cake](/assets/images/cake.jpg "Birthday cake")
+![My delicious birthday cake](https://github.dev/m1ner79/m1ner79.github.io/blob/769ab118e44fdbc784c8c987bc30b33fcd00db6a/images/cake.jpeg "Birthday cake")
 
 ## Day 6
 
