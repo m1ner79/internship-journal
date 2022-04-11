@@ -59,8 +59,8 @@ Not much was happening today. Spent most of the day taking screenshots and writi
 Along with this journal and writing a blog, I am doing #100DaysOfCode. I understand that I should be logging some activity every day but I am a dad and weekends are reserved for my family so.. No entries over the weekend. 
 
 Also, it was my birthday so there is no way that I would be doing any coding at all. Here is the delicious cake I have enjoyed yesterday 😋.
-![My delicious birthday cake](/images/cake.jpg "Birthday cake")
+![My delicious birthday cake](/assets/images/cake.jpg "Birthday cake")
 
 ## Day 6
 
-Today I had my weekly call with my mentor. Just to make sure that I am on the right track( and working 😃). I have advised him that I am almost finished with the first blog. Advised him about my concerns and he gave me a few handy tips. Fingers crossed that today I will share that post.
+Today I had my weekly call with my mentor. Just to make sure that I am on the right track( and working 😃). I have advised him that I am almost finished with the first blog. I have raised my concerns and he gave me a few handy tips. Fingers crossed that today I will share that post.
