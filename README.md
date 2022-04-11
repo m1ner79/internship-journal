@@ -63,4 +63,4 @@ Also, it was my birthday so there is no way that I would be doing any coding at 
 
 ## Day 6
 
-Today I had my weekly call with my mentor. Just to make sure that I am on the right track( and working 😃). I have advised him that I am almost finished with the first blog. I have raised my concerns and he gave me a few handy tips. Fingers crossed that today I will share that post.
+Today I had my weekly call with my mentor. Just to make sure that I am on the right track( and working 😃). I have advised him that I am almost finished with the first blog. I have raised my concerns and he gave me a few handy tips. Fingers crossed that today I will share that post. Tomorrow I will start exploring Tailwind CSS.
