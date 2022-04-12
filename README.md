@@ -64,3 +64,13 @@ Also, it was my birthday so there is no way that I would be doing any coding at 
 ## Day 6
 
 Today I had my weekly call with my mentor. Just to make sure that I am on the right track( and working 😃). I have advised him that I am almost finished with the first blog. I have raised my concerns and he gave me a few handy tips. Fingers crossed that today I will share that post. Tomorrow I will start exploring Tailwind CSS.
+
+## Day 7
+
+So my yesterday's planning went out through the window 🤷‍♂️. I wanted to work on Tailwind but instead, I have spent the whole day trying to share this post on many platforms. Looks like the easiest way so far was LinkedIn and Twitter. I tried Reddit and Hacker News. Reddit wasn't too bad but HN... Jesus wept as they say. 
+
+Look, I understand it is personal preference and some people may feel offended by my observation but I must say HN has one of the least intuitive UI that I have encountered. Sure, there might be others and maybe the worst but for now, this is my nr 1. It is probably my fault, I am not Hacky enough 😏. 
+
+Currently, I am researching the best way of sharing your blog post so you can reach the most of the audience. 
+
+Another blog is on the way. Holy smokes! If I keep this up I will be a pro writer at the end of this internship 😀.
