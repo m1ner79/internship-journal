@@ -85,5 +85,5 @@ I used that opportunity to go through all my favourites and bookmarks on my Twit
 
 I was planning to do it for a long time and today it was a justified excuse to do that.
 
-Tomorrow I will start putting things together for another post [mad typing](https://media.giphy.com/media/RRerwvHrb0nxm/giphy.gif).
+Tomorrow I will start putting things together for another post ![mad typing](https://media.giphy.com/media/RRerwvHrb0nxm/giphy.gif).
 
