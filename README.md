@@ -76,3 +76,11 @@ Also, I have updated the blog thanks to constructive feedback. And I like the lo
 Currently, I am researching the best way of sharing your blog post so you can reach the most of the audience. Another blog is on the way. 
 
 Holy smokes! If I keep this up I will be a pro writer at the end of this internship 😀.
+
+## Day 8
+
+Today there was really nothing except reading and researching for the new post. 
+I used that opportunity to go through all my favourites and bookmarks on my Twitter to look for some interesting articles and I found few.
+I was planning to do that for a long time and today it was a justified excuse to do that.
+Tomorrow I will start putting things together for another post.
+
