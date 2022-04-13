@@ -52,11 +52,11 @@ Blilliant 😀.
 
 ## Day 5
 
-Not much was happening today. Spent most of the day taking screenshots and writing my blog on "How to use GitHub Pages to host a blog." To be honest it is taking longer than I was expecting. It is almost finished. Hopefully, I will post it tomorrow 🤞. 
+Not much was happening today. Spent most of the day taking screenshots and writing my blog on "How to use GitHub Pages to host a blog." To be honest it is taking longer than I was expecting. It is almost finished. Hopefully, I will post it tomorrow 🤞.
 
 ## Week 2
 
-Along with this journal and writing a blog, I am doing #100DaysOfCode. I understand that I should be logging some activity every day but I am a dad and weekends are reserved for my family so.. No entries over the weekend. 
+Along with this journal and writing a blog, I am doing #100DaysOfCode. I understand that I should be logging some activity every day but I am a dad and weekends are reserved for my family so.. No entries over the weekend.
 
 Also, it was my birthday so there is no way that I would be doing any coding at all. Here is the delicious cake I have enjoyed yesterday 😋.
 ![My delicious birthday cake](/images/cake.jpeg?raw=true "Birthday cake")
@@ -67,13 +67,13 @@ Today I had my weekly call with my mentor. Just to make sure that I am on the ri
 
 ## Day 7
 
-So my yesterday's planning went out through the window 🤷‍♂️. I wanted to work on Tailwind but instead, I have spent the whole day trying to share this post on many platforms. Looks like the easiest way so far was LinkedIn and Twitter. I tried Reddit and Hacker News. Reddit wasn't too bad but HN... Jesus wept as they say. 
+So my yesterday's planning went out through the window 🤷‍♂️. I wanted to work on Tailwind but instead, I have spent the whole day trying to share this post on many platforms. Looks like the easiest way so far was LinkedIn and Twitter. I tried Reddit and Hacker News. Reddit wasn't too bad but HN... Jesus wept as they say.
 
-Look, I understand it is personal preference and some people may feel offended by my observation but I must say HN has one of the least intuitive UI that I have encountered. Sure, there might be others and maybe the worst but for now, this is my nr 1. It is probably my fault, I am not Hacky enough 😏. 
+Look, I understand it is personal preference and some people may feel offended by my observation but I must say HN has one of the least intuitive UI that I have encountered. Sure, there might be others and maybe the worst but for now, this is my nr 1. It is probably my fault, I am not Hacky enough 😏.
 
 Also, I have updated the blog thanks to constructive feedback. And I like the look of it now. It is [here](https://dev.to/m1ner/how-to-use-github-pages-to-host-a-blog-4ofd) (in case if you missed it).
 
-Currently, I am researching the best way of sharing your blog post so you can reach the most of the audience. Another blog is on the way. 
+Currently, I am researching the best way of sharing your blog post so you can reach the most of the audience. Another blog is on the way.
 
 Holy smokes! If I keep this up I will be a pro writer at the end of this internship 😀.
 
@@ -81,10 +81,10 @@ Holy smokes! If I keep this up I will be a pro writer at the end of this interns
 
 Today there was really nothing except reading 📚 and researching 🔎 for the new post.
 
-I used that opportunity to go through all my favourites and bookmarks on my Twitter to look for some interesting articles and I found few 💎. 
+I used that opportunity to go through all my favourites and bookmarks on my Twitter to look for some interesting articles and I found few 💎.
 
 I was planning to do it for a long time and today it was a justified excuse to do that.
 
-Tomorrow I will start putting things together for another post!
-[typing](https://media.giphy.com/media/RRerwvHrb0nxm/giphy.gif {width=100%})
+Tomorrow I will start putting things together for another post.
+![typing](<https://media.giphy.com/media/RRerwvHrb0nxm/giphy.gif> {width=100%})
 <img src="https://media.giphy.com/media/RRerwvHrb0nxm/giphy.gif" width="100%">
