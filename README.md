@@ -87,3 +87,11 @@ I was planning to do it for a long time and today it was a justified excuse to d
 
 Tomorrow I will start putting things together for another post.
 <img src="https://media.giphy.com/media/RRerwvHrb0nxm/giphy.gif" width="100%">
+
+## Day 9
+
+Not much to report today. Just watching YouTube and reading articles. Today was the worst day of the internship so far . 
+
+The only bright side was that I updated my original blog due to great feedback.
+
+Hopefully, tomorrow will be a better day 🙏.
