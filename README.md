@@ -95,3 +95,27 @@ Not much to report today. Just watching YouTube and reading articles. Today was 
 The only bright side was that I updated my original blog due to great feedback.
 
 Hopefully, tomorrow will be a better day 🙏.
+
+## Week 3
+
+This was a busy Easter break. List of home chors was as long as my hand 😉. Almost on top of everything. But I must admit that I have enjoyed past few days without sitting on front of the screen. 
+
+Our axolotl was the happiest because we got him a "roomie". 
+
+![Goldie and Toothless](/images/Goldie_and Toothless.jpeg?raw=true "Goldie and Toothless")
+
+Not sure how he feels now as she is quite faisty 😂.
+
+## Day 10
+
+Today was great. I missed working on my blog so I was quite happy to start working on it. I was in the zone. I decided to try ghostwriter, a distraction-free text editor for Markdown. I must say that I enjoyed it except for one point when my laptop froze and I had to reboot it.
+
+I didn't give it a second thought. I was expecting to pick up where I left but within a few seconds, I realised that the auto-save didn't work and I lost everything.
+
+ I had to start from the beginning. OMG!!! 🤬🤬🤬🤬🤬
+
+To be honest, all energy just evaporated from me. It took me over an hour to get back to it.
+
+I eventually finished my blog and posted it but it took me longer than I expected.
+
+Overall good day, maybe except for losing the whole document. Lesson learned 🤷‍♂️.
