@@ -102,7 +102,7 @@ This was a busy Easter break. List of home chors was as long as my hand 😉. Al
 
 Our axolotl was the happiest because we got him a "roomie". 
 
-![Goldie and Toothless](/images/Goldie_and Toothless.jpeg?raw=true "Goldie and Toothless")
+![Goldie and Toothless](/images/Goldie_and_Toothless.jpeg)
 
 Not sure how he feels now as she is quite faisty 😂.
 
