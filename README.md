@@ -112,10 +112,20 @@ Today was great. I missed working on my blog so I was quite happy to start worki
 
 I didn't give it a second thought. I was expecting to pick up where I left but within a few seconds, I realised that the auto-save didn't work and I lost everything.
 
- I had to start from the beginning. OMG!!! 🤬🤬🤬🤬🤬
+I had to start from the beginning. OMG!!! 🤬🤬🤬🤬🤬
 
 To be honest, all energy just evaporated from me. It took me over an hour to get back to it.
 
 I eventually finished my blog and posted it but it took me longer than I expected.
 
 Overall good day, maybe except for losing the whole document. Lesson learned 🤷‍♂️.
+
+## Day 11
+
+So today I started researching Tailwind CSS. Researching is a skill in itself. There is so much material out there so it takes some time to find something relevant. 
+
+The keyword is **relevant** because there is loads of interesting stuff that can take your time in a split second.
+
+It is time-consuming. 
+
+‼️ Lesson of the day - I change YouTube video speeds to 1.25 so I can still follow instructions and save time 👌.
