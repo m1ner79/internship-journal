@@ -116,7 +116,7 @@ I had to start from the beginning. OMG!!! 🤬🤬🤬🤬🤬
 
 To be honest, all energy just evaporated from me. It took me over an hour to get back to it.
 
-I eventually finished my blog and posted it but it took me longer than I expected.
+I eventually finished my blog on [Increasing visibility of my articles](https://dev.to/m1ner/increasing-visibility-of-my-articles-1bmd) and posted it but it took me longer than I expected.
 
 Overall good day, maybe except for losing the whole document. Lesson learned 🤷‍♂️.
 
