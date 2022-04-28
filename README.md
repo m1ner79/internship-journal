@@ -141,3 +141,46 @@ Today nothing worked. I just could not get into the **zone**. I was getting easi
 I need to learn how to approach days like today 🤔.
 
 Tomorrow is another day and I will do a lot better than today.
+
+## Day 13
+
+Nothing done... 
+
+Last night I learned that one of my mates from the course passed away. Initially, I couldn't believe it. Loads of memories were just popping into my head. Later that night I decided to write something for him.
+If you wish to read it then it is available [here](Tribute.md).
+
+Today was not a great day.
+
+## Week 4
+
+Can't believe it is four weeks since I started my internship. Time flies. I guess there was an Easter break as well. All is good so far. I think.
+
+## Day 14
+
+I actually can't believe it!! 😡😡 I was starting my laptop this morning and I had a weird pop up saying something about my first boot up. I was like "Hmm?" 🤔 but then I clicked ok and ... I got info about checking disc. That very moment I knew that something not nice happened and I was correct. My Linux partition "evaporated"!!  It happened to me sometime before but I was messing with my machine at the time but now I was good, no funny stuff🤷‍♂️.
+
+Ehh... Thankfully I had my Windows partition functional so I could attend my weekly call with Lukasz. I have told him about the issue and we talked about the progress of my newest blog.
+
+The whole afternoon I  was reinstalling stuff again🤬🤬.
+
+One of my college mates created a script that he runs after reinstalling his Linux distribution. It installs all his programs. I must look into that.
+
+## Day 15
+
+Yesterday I realised during my call that I was researching Tailwind CSS but I should be checking Tailwind Nextjs Starter Blog 🤦‍♂️. Miscommunication at its finest. Happens to everybody. Also, I will be using a different host for it - Vercel. But all at the right time. That will be the last step for my blog.
+
+## Day 16
+
+Ok, so the blog is slowly writing itself😀. Today I installed Node.js. It was slow going as I was also taking screenshots for the blog. It was going really well. I learned why best to use nvm to install Node.js. Next, I need to fork out a blogging template and document it.
+
+## Day 17
+
+Today is the funeral. I decided to push this earlier today just in case I will not be in form to do it. I must admit that I dropped the ball this week. I wasn't updating Twitter and #DaysOfCode.
+
+I think that if I was in the office I would be able to deal with it differently but because I am on my own in my office space my thoughts are wandering between the tasks at hand and Keith.
+
+From "Ok, why nvm?" to "Ah, Keith.."
+
+A whole week like that, maybe except Monday (Day 14) where I was too bloody angry to think 🙂.
+
+Tomorrow I am starting my holiday so there will be no entries in the journal for a week. 
