@@ -171,7 +171,7 @@ Yesterday I realised during my call that I was researching Tailwind CSS but I sh
 
 ## Day 16
 
-Ok, so the blog is slowly writing itself😀. Today I installed Node.js. It was slow going as I was also taking screenshots for the blog. It was going really well. I learned why best to use nvm to install Node.js. Next, I need to fork out a blogging template and document it.
+Ok, so the blog is slowly writing itself😀. Today I installed Node.js. It was slow going as I was also taking screenshots for the blog. I am quite happy with the progress. I learned why best to use nvm to install Node.js. Next, I need to fork out a blogging template and document it.
 
 ## Day 17
 
