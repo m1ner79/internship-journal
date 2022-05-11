@@ -184,3 +184,27 @@ From "Ok, why nvm?" to "Ah, Keith.."
 A whole week like that, maybe except Monday (Day 14) where I was too bloody angry to think 🙂.
 
 Tomorrow I am starting my holiday so there will be no entries in the journal for a week. 
+
+## Week 5
+
+This was a great break. I am rested and wrecked at this same time. I know it doesn't make sense but let me explain. I am rested mentally. This break helped me to put behind me the events regarding Keith and just to be away from PC for a while. 
+I am wrecked physically. I was really enjoying myself at the wedding and my better half 🥰 and I danced 💃🕺till morning hours 😀. Also trying to visit everybody in a short space of time (eight days) is not great for sleeping.
+
+## Day 18
+
+Tough going. Trying to come back to it but struggling big time. I think that the past week's lack of sleep is catching up with me. Damn you "old age". I can already feel that today will not be productive 🤷‍♂️.
+
+## Day 19
+
+Okay, so today I have cloned the blogging starter template and trying to figure out what goes where. I must admit that I am struggling. I guess it is expected when you are at the beginning of the programming road.
+
+## Day 20
+
+😁 I am running my development server. It gives me a better idea of how things work. Apart from discovering stuff and documenting it for the next blog, I noticed two things: 
+- I am still adjusting to the remote style of working. In my head, if I am not starting at a particular time and don't sit at the desk for so many hours then I am not working. I guess it will take time to switch after working so many years in that one certain way.
+I am institutionalized like "Red" or "Brooks" from The Shawshank Redemption(a great movie BTW). I know that it is an exaggeration but it is a bit similar.
+- I am afraid of breaking stuff. Can't understand it 🤷‍♂️. I keep checking things a few times before I try and that slows me down. I should be able to just dive in. I can't break the laptop and if I break the code I can always start over. I think it happens because I don't trust myself programming-wise and I am afraid that if I screw up then I am proving the point that I am just not good at it..🤔
+
+Ah well... Tomorrow is another day. Onwards and upwards 👊 💪.
+
+
