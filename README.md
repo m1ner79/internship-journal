@@ -225,4 +225,4 @@ My friend and my brother... Shocking 😂.
 
 I love them for their honesty ❤️.
 
-I guess that tomorrow I will keep transferring and fixing bits.
+I guess that tomorrow I will keep transferring and fixing bits and leave designing logos for professionals 😁.
