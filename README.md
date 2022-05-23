@@ -90,7 +90,7 @@ Tomorrow I will start putting things together for another post.
 
 ## Day 9
 
-Not much to report today. Just watching YouTube and reading articles. Today was the worst day of the internship so far . 
+Not much to report today. Just watching YouTube and reading articles. Today was the worst day of the internship so far .
 
 The only bright side was that I updated my original blog due to great feedback.
 
@@ -98,9 +98,9 @@ Hopefully, tomorrow will be a better day 🙏.
 
 ## Week 3
 
-This was a busy Easter break. List of home chors was as long as my hand 😉. Almost on top of everything. But I must admit that I have enjoyed past few days without sitting on front of the screen. 
+This was a busy Easter break. List of home chors was as long as my hand 😉. Almost on top of everything. But I must admit that I have enjoyed past few days without sitting on front of the screen.
 
-Our axolotl was the happiest because we got him a "roomie". 
+Our axolotl was the happiest because we got him a "roomie".
 
 ![Goldie and Toothless](/images/GoldieAndToothless.jpeg?raw=true "Goldie and Toothless")
 
@@ -122,11 +122,11 @@ Overall good day, maybe except for losing the whole document. Lesson learned �
 
 ## Day 11
 
-So today I started researching Tailwind CSS. Researching is a skill in itself. There is so much material out there so it takes some time to find something relevant. 
+So today I started researching Tailwind CSS. Researching is a skill in itself. There is so much material out there so it takes some time to find something relevant.
 
 The keyword is **relevant** because there is loads of interesting stuff that can take your time in a split second.
 
-It is time-consuming. 
+It is time-consuming.
 
 ‼️ Lesson of the day - I change YouTube video speeds to 1.25 so I can still follow instructions and save time 👌.
 
@@ -144,7 +144,7 @@ Tomorrow is another day and I will do a lot better than today.
 
 ## Day 13
 
-Nothing done... 
+Nothing done...
 
 Last night I learned that one of my mates from the course passed away. Initially, I couldn't believe it. Loads of memories were just popping into my head. Later that night I decided to write something for him.
 If you wish to read it then it is available [here](Tribute.md).
@@ -183,11 +183,11 @@ From "Ok, why nvm?" to "Ah, Keith.."
 
 A whole week like that, maybe except Monday (Day 14) where I was too bloody angry to think 🙂.
 
-Tomorrow I am starting my holiday so there will be no entries in the journal for a week. 
+Tomorrow I am starting my holiday so there will be no entries in the journal for a week.
 
 ## Week 5
 
-This was a great break. I am rested and wrecked at this same time. I know it doesn't make sense but let me explain. I am rested mentally. This break helped me to put behind me the events regarding Keith and just to be away from PC for a while. 
+This was a great break. I am rested and wrecked at this same time. I know it doesn't make sense but let me explain. I am rested mentally. This break helped me to put behind me the events regarding Keith and just to be away from PC for a while.
 I am wrecked physically. I was really enjoying myself at the wedding and my better half 🥰 and I danced 💃🕺till morning hours 😀. Also trying to visit everybody in a short space of time (eight days) is not great for sleeping.
 
 ## Day 18
@@ -200,7 +200,7 @@ Okay, so today I have cloned the blogging starter template and trying to figure 
 
 ## Day 20
 
-😁 I am running my development server. It gives me a better idea of how things work. Apart from discovering stuff and documenting it for the next blog, I noticed two things: 
+😁 I am running my development server. It gives me a better idea of how things work. Apart from discovering stuff and documenting it for the next blog, I noticed two things:
 - I am still adjusting to the remote style of working. In my head, if I am not starting at a particular time and don't sit at the desk for so many hours then I am not working. I guess it will take time to switch after working so many years in that one certain way.
 I am institutionalized like "Red" or "Brooks" from The Shawshank Redemption(a great movie BTW). I know that it is an exaggeration but it is a bit similar.
 - I am afraid of breaking stuff. Can't understand it 🤷‍♂️. I keep checking things a few times before I try and that slows me down. I should be able to just dive in. I can't break the laptop and if I break the code I can always start over. I think it happens because I don't trust myself programming-wise and I am afraid that if I screw up then I am proving the point that I am just not good at it..🤔
@@ -209,7 +209,7 @@ Ah well... Tomorrow is another day. Onwards and upwards 👊 💪.
 
 ## Day 21
 
-Transferring my internship blog onto my "new look" blog. Some things don't work and I am still trying to figure it out but I am starting to understand( well, I think that I do) how things work. 
+Transferring my internship blog onto my "new look" blog. Some things don't work and I am still trying to figure it out but I am starting to understand( well, I think that I do) how things work.
 
 Some links and pics not working but I think this will be just a matter of updating paths.
 
@@ -219,10 +219,142 @@ I was so happy with my idea and how it looks. I send it to my brother for evalua
 
 I am not going to lie, I was not impressed and I might have sent him some of these 🖕 but in my defence, I thought that it looked good 🤷‍♂️.
 
-Later my friend (who is a great designer) looked at it and between the lines, I sensed that she thinks that my logo is "meh". 
+Later my friend (who is a great designer) looked at it and between the lines, I sensed that she thinks that my logo is "meh".
 
 My friend and my brother... Shocking 😂.
 
 I love them for their honesty ❤️.
 
 I guess that tomorrow I will keep transferring and fixing bits and leave designing logos for professionals 😁.
+
+## Week 6
+
+Nice weekend. Done few bits and pieces around the house. I also feel that I have managed to catch up with holiday sleep depravation. Ready to rock 💪.
+
+## Day 22
+
+First of all, I am well aware that this is not day 22. "What about last Friday and this Monday mate!?"🤔
+
+These two days were not that interesting. I was transferring bits from the original blog onto the new one. Fixing errors and broken links, etc.
+
+But today... I have managed to deploy my "new look" site.
+I would be lying if I say that it was easy.
+
+Maybe some of you who are much better than me would finish it a long time ago. Well done! Good luck!
+
+There were moments of struggle but I succeeded at last!! Some bits still not working, like comments, but everything in time will work as expected🤞.
+
+Something funny (in retrospect) happened today. I was getting errors when I was running my
+
+    npm run build
+
+My "new look" website is running locally already despite these errors.
+
+So, after some reading, I decided to check if maybe packages need some updating and if you want to find something to fit your theory then you will😉.
+
+I installed the **npm-check-updates** which is for updating a new and major version of the packages and then I run the command:
+
+    ncu
+
+which will list all the global packages which have new releases.
+
+And what would you know, it found 49😁.
+
+Like a good boy, I run this👇
+
+    ncu -u
+
+for upgrading all the version hints in the package.json file, so npm will install the major version.
+
+After that
+
+    npm update
+    npm install
+
+And... The website stopped working 👀.
+
+Eventually, I gave up and asked my mentor for help.
+
+I explained what happened. He was very complimentary regarding my approach but then he helped me to understand that:
+
+- read your errors a bit better(turned out that my errors were just warnings and my updating packages created errors 🤦‍♂️😂). Beginner's mistake🤷‍♂️.
+- when updating packages, do it one by one, test it and then repeat the process if necessary.
+
+Eventually, we fixed all errors and now you are reading this journal entry on my new website🥳🎉.
+
+The very rewarding feeling was when the website was successfully deployed.
+
+Tomorrow I will fix the comments section 🗣️.
+
+## Day 23
+
+Typical😡. I planned today to start working on the comments section on my new website and ...👎
+The first few hours I spend investigating why the most recent build was not deploying correctly.
+
+I was getting plenty of errors but I could not make any sense of them. Eventually, I caved and asked Lukasz to maybe have a look.
+He was also puzzled. I was trying to recall what I was doing and he draw attention to one of the posts. When I opened it I realised that
+it was missing the metadata part. Once I have updated it everything started working 🤦‍♂️.
+
+After that, I was polishing my newest blog about how I replaced my old blog with a modern look website. It is available [here](https://dev.to/m1ner/how-to-make-your-blog-feature-rich-with-nextjs-tailwind-css-and-vercel-3i0g). It was late afternoon before I posted it and then I updated my social media as well.
+
+Looks like I will work on it tomorrow 🤷‍♂️.
+
+Oh...I just realised I need to update README page as well.
+
+## Day 24
+
+What a day! I am still buzzing 😁.
+
+I meant to work on comments for the website and update README. So I started with the second task because it is easier 😉.
+
+When I was doing that, my friend send me the logo I have asked for and... I was blown 🤩. I absolutely love it.
+
+Automatically, the whole planning went to the bin 🫢. I started copying, pasting, trimming, editing, the whole shebang.
+
+Based on her design I managed to create favicons, and change the logo and the banner for the repository.
+
+I did not even realise that the whole day just went by. I guess it is true that time flies when you are having fun.
+
+I understand that this was not a priority today but it feels so good at the end of the day. I did something that gave me satisfaction plus I have learned other things.
+
+What I did today means that this blog is no longer generic. It is mine and it is slowly starting to feel like I expect.
+
+It is still far away from what I have in my head but I am on the right track.
+
+And that logo... Wow 👏. Ok, I understand that some of you may think that it is just a logo but when I saw it was just as if she somehow read my mind 🤔.
+
+Sadly, Jola doesn't have a website where you can acquire her services (yet)😉.
+
+Today was a good day. Can't wait for tomorrow.
+
+## Day 25
+
+Another good day at the office. I have managed to activate comments on my website. Very happy with it. I was also documenting this, so material for a new article is growing.
+
+Confidence growing with each day 📈.
+
+
+## Week 7
+
+Damn. It was so close 🤏. In the end Manchester City won the Premier League.
+
+I guess we, Liverpool supporters should be already happy. LFC have already two trophies and potentially one more - Champions League 🤞 (next Saturday).
+
+
+## Day 26
+
+Ohhhh...Monday. Thankfully it is over. It was a meh day😐.
+
+I had my weekly meeting with Lukasz 🫡, and I blame him for this Monday 😀.
+
+I was absolutely fine until we had the meeting and he said that today is dragging for him and this somehow 🤷‍♂️ spread onto me 😉.
+
+On the serious note, I've got a new assignment. But first, I have to finish the article (that is what I was doing after the conference call) which I already started and then I will focus on the new goal.
+
+I think that I am up to date with everything so no panic stations for me.
+
+However, I am starting to feel a tiny bit of anxiety as we are approaching June and this means that I should know the results of my exams soon.
+
+Not looking forward to that 😬.
+
+Hopefully 🤞 everything went as it should 🤞.
