@@ -333,13 +333,11 @@ Another good day at the office. I have managed to activate comments on my websit
 
 Confidence growing with each day 📈.
 
-
 ## Week 7
 
 Damn. It was so close 🤏. In the end Manchester City won the Premier League.
 
 I guess we, Liverpool supporters should be already happy. LFC have already two trophies and potentially one more - Champions League 🤞 (next Saturday).
-
 
 ## Day 26
 
@@ -358,3 +356,56 @@ However, I am starting to feel a tiny bit of anxiety as we are approaching June 
 Not looking forward to that 😬.
 
 Hopefully 🤞 everything went as it should 🤞.
+
+## Day 27
+
+That is it!!! From now on I am writing my posts in VSC.
+
+It feels like I must have done something to someone at some stage because these things keep happening.
+
+So, today I log into my laptop, happy that I have only a few bits to iron out with my article just to realise that somehow my draft is no longer available on dev.to...
+
+I mean 🤬😡🤬😡🤬 **REALLLLLLYY!!!!????**
+
+It happened to me at the beginning of my internship so I am quite careful but this is ridiculous 🤷‍♂️.
+
+I understand that some of you would say "Well if you save it then it would be there". It is a fair observation (not helpful at all 🤫) but I do remember clicking on _Save draft_. Ah well...
+
+I actually had a weird feeling before I switched off my laptop to save the copy locally 🤔. I guess that is another lesson learned - listen to my gut and keep a local copy.
+
+Now, back to the beginning of the article🤦‍♂️.
+
+Eventually, I managed to finish that article 😮‍💨. Everything is uploaded to the repo and deployed 💪.
+
+## Day 28
+
+Hands down the least productive day of my internship 🫤.
+
+For most of the day, I stared senselessly at my computer screen. I am not sure why 🤔. Just could not focus at all.
+
+I don't like when this happens.
+
+Please let me know in the comments below 👇 if this has ever happened to you and if you found a solution. The more life hacks I learn, the better.
+
+I had great last few days so for some balance I am probably due a 💩💩 day I guess🤷‍♂️.
+
+I am not going to dwell on this. Done and dusted.
+![done](https://media.giphy.com/media/26u4lOMA8JKSnL9Uk/giphy.gif)
+
+Tomorrow is another day and I will for sure do better than today 🤞.
+
+##Day 29
+
+I spent today refreshing my knowledge on server-side rendering, client-side rendering and build-side rendering.
+
+Re-watched some of the old recordings. There are bits that I think that I get so I just need to do more reading to be sure that I am getting it.
+
+I need to plan on how I want to write it.
+
+I guess once I will have the material and see how much space it needs then I will know if it is one article or a series of them.
+
+It is all very interesting but also draining. Maybe it is the volume of the information 🤔
+
+The main thing is that today was a better day than yesterday.
+
+More research 📚 🔎 tomorrow.
